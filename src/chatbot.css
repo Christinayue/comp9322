@@ -1,0 +1,65 @@
+.Form {
+    font-style: italic;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    width: 500px;
+    margin: 0 auto;
+    height: auto;
+    padding: 10px 0;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px grey;
+    color: rgb(55, 56, 54);
+   
+  }
+  
+  .Row {
+    margin: 20px;
+  }
+  
+  .TitleStyle {
+    font-style: italic;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+  }
+  .FormLabel {
+    float: left;
+    width: 80px;
+    height: 20px;
+    text-align: center;
+  }
+  
+  .FormInput {
+    margin-left: 40px;
+    width: 250px;
+    text-align: center;
+  }
+  
+  .Note {
+    text-align: center;
+  }
+  
+  .Button{
+      margin-left:180px; 
+      width: 100px;
+      color: #fff !important;
+      text-transform: uppercase;
+      background: #84a196;
+      padding: 10px;
+      border-radius: 10px;
+      display: inline-block;
+      border: none;
+      }
+  .Button:hover {
+    text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+    transition: all 0.4s ease 0s;
+  }
+  
+  .SignIn {
+    color: #84a196;
+    text-decoration: underline;
+  }
+  
